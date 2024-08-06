@@ -1,6 +1,6 @@
-## Desafio de código "Simulando Uma Conta Bancária Através do Terminal/Console"
+## Desafio de projeto "Simulando Uma Conta Bancária Através do Terminal/Console"
 
-Desafio de código do bootcamp "Claro - Java com Spring Boot", módulo de "Sintaxe Básica com Java".
+Desafio de projeto do bootcamp "Claro - Java com Spring Boot", módulo de "Sintaxe Básica com Java".
 
 ## ContaTerminal - Visão Geral
 
